@@ -1,0 +1,1 @@
+Whitelist app for airdrops
